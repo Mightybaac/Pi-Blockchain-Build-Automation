@@ -28,7 +28,7 @@ Before running the script, ensure that you have the following dependencies insta
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your_username/pi-automation.git
+   git clone https://github.com/Mightybaac/Pi-Blockchain-Build-Automation.git
    ```
 
 2. Navigate to the project directory:
