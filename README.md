@@ -34,7 +34,7 @@ Before running the script, ensure that you have the following dependencies insta
 2. Navigate to the project directory:
 
    ```shell
-   cd pi-automation
+   cd Pi-Blockchain-Build-Automation
    ```
 
 3. Run the build automation script:
