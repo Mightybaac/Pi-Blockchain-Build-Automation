@@ -32,9 +32,13 @@ def build_pi_project(build_dir="build"):
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
 
-if __name__ == "__main__":
-    build_dir = input("Enter the build directory path (press Enter for default 'build'): ")
+def main():
+    build_dir = input("Enter the build directory path (press Enter for default 'build'): ").strip()
     if not build_dir:
         build_dir = "build"
 
+    print("Building the Pi blockchain project...")
     build_pi_project(build_dir)
+
+if __name__ == "__main__":
+    main()
