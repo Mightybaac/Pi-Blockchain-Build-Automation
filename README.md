@@ -1,6 +1,5 @@
-# Pi-Blockchain-Build-Automation
-
 ```
+# Pi-Blockchain-Build-Automation
 
 This program automates the process of building the Pi blockchain project by performing the necessary steps outlined in the ReadMe file.
 
@@ -8,7 +7,7 @@ This program automates the process of building the Pi blockchain project by perf
 
 Pi (π) is a new generation blockchain technology that utilizes an improved consensus mechanism called IPoS (Improved Proof of Stake). It aims to achieve a balance between fairness and efficiency. Pi introduces a new incentive algorithm to attract users and construct the Pi network.
 
-This automation script simplifies the build process for the Pi blockchain project by cloning the repository, updating submodules, creating the build directory, and building the project using cmake.
+This automation script simplifies the build process for the Pi blockchain project by cloning the repository, updating submodules, creating the build directory, and building the project using CMake.
 
 ## Repository Contents
 
@@ -45,7 +44,7 @@ Before running the script, ensure that you have the following dependencies insta
 
 4. Optionally, you can specify a custom build directory path by providing it as an input when prompted by the script. Press Enter to use the default 'build' directory.
 
-5. The script will clone the Pi repository, update submodules, create the build directory, run cmake to configure the project, and finally build the project using make.
+5. The script will clone the Pi repository, update submodules, create the build directory, run CMake to configure the project, and finally build the project using make.
 
 6. Once the build process is complete, the Pi blockchain project will be successfully built.
 
@@ -61,4 +60,3 @@ Thank you for considering making a donation and supporting the Pi project!
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
