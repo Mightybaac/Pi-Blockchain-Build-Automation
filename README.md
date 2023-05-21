@@ -51,7 +51,7 @@ Before running the script, ensure that you have the following dependencies insta
 
 ## Support and Donations
 
-If you find this automation script helpful and would like to support the development of the Pi blockchain project, you can make a donation to the following PI Address: GABT3ZFWRC6AYYQ6XPA3WMPT6QOHGGN7J2ZZVFAZMWSHP4HXGEMC7SJ4.
+If you find this automation script helpful and would like to support the development of the Pi blockchain automation, you can make a donation to the following PI Address: GABT3ZFWRC6AYYQ6XPA3WMPT6QOHGGN7J2ZZVFAZMWSHP4HXGEMC7SJ4
 
 Your generous contribution will help further the development of the Pi blockchain technology, enabling it to reach its full potential and make a positive impact in the world.
 
